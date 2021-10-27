@@ -9,3 +9,5 @@ x = [1, 2, 3, 4]
 y =1
 ## fourth written at local
 z = 1
+## fifth written at github master
+hist(x,y)
